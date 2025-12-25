@@ -59,7 +59,7 @@ const All_customers = () => {
    <section className='bg-white'>
       <div className='container mx-auto'>
 
-          <p>Hi! initial page of mine!</p>
+          <p>Hi! Testing page for all orders!</p>
       </div>
 
       <div className='container mx-auto'>
